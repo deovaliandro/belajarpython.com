@@ -14,11 +14,12 @@ Cara menginstal python sangat mudah, ikuti panduan dibawah ini. Dibawah adalah p
 ### Linux
 1. Buka browser, kunjungi [http://www.python.org/downloads/source/](http://www.python.org/downloads/source/)
 2. Download versi terbaru Python berbentuk file zip untuk Unix/Linux
-3. Ekstrak file zip yang baru saja di download
-4. Edit file Modules/Setup jika Anda ingin kostumisasi Python
-5. Jalankan `./configure` script
-6. `make`
-7. `make install`
+3. Atau, klik direct link [https://www.python.org/ftp/python/3.9.5/Python-3.9.5.tgz](https://www.python.org/ftp/python/3.9.5/Python-3.9.5.tgz)
+4. Ekstrak file zip yang baru saja di download
+5. Edit file Modules/Setup jika Anda ingin kostumisasi Python
+6. Jalankan `./configure` script
+7. `make`
+8. `make install`
 
 Langkah ini akan menginstal Python di lokasi standar `/usr/local/bin` dan library di `/usr/local/lib/pythonXX` dimana `XX` adalah versi terbaru Python yang anda gunakan.
 
@@ -27,15 +28,16 @@ Langkah ini akan menginstal Python di lokasi standar `/usr/local/bin` dan librar
 
 ### Windows
 1. Buka browser, kunjungi [http://www.python.org/downloads/windows/](http://www.python.org/downloads/windows/)
-2. ATAU, klik direct link [https://www.python.org/ftp/python/3.8.1/python-3.8.1.exe](https://www.python.org/ftp/python/3.8.1/python-3.8.1.exe)
+2. ATAU, klik direct link [https://www.python.org/ftp/python/3.9.5/python-3.9.5.exe](https://www.python.org/ftp/python/3.9.5/python-3.9.5.exe)
 3. Buka (klik 2x) file installer python yang baru saja di download
 4. Ikuti langkah instalasi sampai selesai
 
 ### Mac OS
 1. Buka browser, kunjungi [http://www.python.org/download/mac/](http://www.python.org/download/mac/)
 2. Download versi terbaru Python untuk Macintosh
-3. Buka file yang baru saja di download
-4. Ikuti langkah instalasi sampai selesai
+3. Atau, klik direct link [https://www.python.org/ftp/python/3.9.5/python-3.9.5-macos11.pkg](https://www.python.org/ftp/python/3.9.5/python-3.9.5-macos11.pkg)
+4. Buka file yang baru saja di download
+5. Ikuti langkah instalasi sampai selesai
 
 ---
 > [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/instalasi-python.md)
